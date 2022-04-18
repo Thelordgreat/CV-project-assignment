@@ -27,7 +27,7 @@ const Header = () => {
 
           <div className="vl"></div>
             
-          <p>Hi,My name is Great Okafor. I am a quality driven individual with proven management and organizational skills. A frontend developer (in view) with proficiency in Reactjs. Asides implementing pixel perfect representations using well structured and beautiful codes, i strive to ensure the software functions efficiently for a perfect user experience. <br /> <br /> I am a jovial person who is willing and always ready to learn. My hobbies are reading and coding.</p>
+          <p>Hi, My name is Great Okafor. I am a quality driven individual with proven management and organizational skills. A frontend developer (in view) with proficiency in Reactjs. Asides implementing pixel perfect representations using well structured and beautiful codes, i strive to ensure the software functions efficiently for a perfect user experience. <br /> <br /> I am a jovial person who is willing and always ready to learn. My hobbies are reading and coding.</p>
             
           </div>
         </div>

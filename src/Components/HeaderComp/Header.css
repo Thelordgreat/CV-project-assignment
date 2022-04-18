@@ -53,6 +53,8 @@
     height: 14rem;
     border-radius: 2rem;
     margin-top: 1rem;
+    object-fit: cover;
+    top: 0;
 }
 
 .header__bottom .vl{
