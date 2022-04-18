@@ -15,8 +15,8 @@ const Contact = () => {
 
           <ul>
             <li><AiOutlinePhone className='icon'/> 09055465302</li>
-            <li><a href="#"><HiOutlineMail className='icon'/> Greatoakfor15@gmail.com</a></li>
-            <li><a href="www.linkedin.com"><AiFillLinkedin className='icon'/> Great Okafor</a></li>
+            <li><a href="mailto:greatokafor15@gmail.com"><HiOutlineMail className='icon'/> Greatoakfor15@gmail.com</a></li>
+            <li><a href="www.linkedin.com/in/great-okafor-348b39220"><AiFillLinkedin className='icon'/> Great Okafor</a></li>
             <li> < GoLocation className='icon' /> 1 Akin Afolabi close,ikeja,Lagos.</li>
           </ul>
         </div>
