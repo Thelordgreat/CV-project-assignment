@@ -1,0 +1,29 @@
+.education__container{
+    max-width: 750px;
+    height: 14.4rem;
+    margin-left: 25rem;
+}
+
+.education__container .education__details{
+    display: flex;
+    margin-top: 2rem;
+}
+
+.education__container .education__details .vl{
+    border-left: 3px solid grey;
+    height: 100px;
+    position: absolute;
+    left: 25%;
+    margin-top: -1.5rem;
+    margin-left: 20rem;
+    opacity: 50%;
+}
+
+.education__container .education__details h3{
+    margin-left: 9rem;
+}
+
+.education__container .education__details p{
+    margin-left: 9rem;
+    margin-top: .5rem;
+}

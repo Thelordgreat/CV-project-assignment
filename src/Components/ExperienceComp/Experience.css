@@ -1,0 +1,23 @@
+.experience__container{
+    max-width: 750px;
+    margin-left: 25rem;
+    margin-top: -55rem;
+}
+
+.experience__container .experience__content .experience1{
+    margin-bottom: 3rem;
+}
+
+.experience__container .experience__content .experience1 h3{
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.experience__container .experience__content .experience1 h4{
+    margin-bottom: .5rem;
+}
+
+.experience__container .experience__content .experience1 p{
+    margin-top: .5rem;
+    font-size: 1rem;
+}

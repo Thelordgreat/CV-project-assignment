@@ -1,0 +1,18 @@
+.skills__container{
+    width: 20rem;
+    height: 45rem;
+    background-color: skyblue;
+}
+
+.skills__container .skills__content{
+    padding-top: 2rem;
+    margin-left: 2.5rem;
+}
+
+.skills__container .skills__content .progress__bar{
+    display: inline-block;
+}
+
+.skills__container .skills__content .progress__bar .pt{
+    color: grey;
+}
